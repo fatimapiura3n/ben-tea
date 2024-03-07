@@ -1,0 +1,9 @@
+{
+  "name": "@benjamin614/ben-tea",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@benjamin614",
+  "repository": "https://github.com/fatimapiura3n/ben-tea.git",
+  "license": "ISC"
+}
